@@ -87,4 +87,6 @@ public class Pikachu extends Pokemon implements IElectrico{
     
     
     
+    
+    
 }
